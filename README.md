@@ -1,2 +1,2 @@
 # codenyaqib
-This is a collection of my code practice 
+This is the collection of my code practice 
