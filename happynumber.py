@@ -1,6 +1,5 @@
 #Happy Number by amqib
 
-import sys
 import math
 
 def sumofdigit(number):
